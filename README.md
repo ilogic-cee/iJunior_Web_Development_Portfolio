@@ -23,6 +23,6 @@ Feel free to reach out if you have any questions or opportunities you'd like to 
 
 - **Email:** jaylogical07@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/junior-motsoko-970a311b4/
-- **Website:** https://github.com/ilogic-cee/iJunior_Web_Development_Portfolio
+- **Website:** https://ilogic-cee.github.io/iJunior_Web_Development_Portfolio/
 
 ## License
