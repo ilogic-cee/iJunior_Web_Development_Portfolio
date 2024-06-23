@@ -9,7 +9,7 @@ Welcome to the iJunior Web Development Portfolio! This repository showcases vari
 - **Description:** Brief description of the project.
 - **Technologies Used:** HTML, CSS, JavaScript, etc.
 - **Live Demo:** https://github.com/ilogic-cee/iJunior_Web_Development_Portfolio
-- **Repository:** [Link to repository](notion://www.notion.so/GitHub-ba56d5188e6441cda63b967b8321d565?showMoveTo=true&saveParent=true#)
+- **Repository:** [[Link to repository](notion://www.notion.so/GitHub-ba56d5188e6441cda63b967b8321d565?showMoveTo=true&saveParent=true#)](https://ilogic-cee.github.io/iJunior_Web_Development_Portfolio/)
 
 ### 
 
